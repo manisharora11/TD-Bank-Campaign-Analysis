@@ -63,5 +63,3 @@ Custom logic was used to derive the `Financial Profile` column, simplifying comp
 // Logic to determine debt profile
 if [housing] = "no" and [loan] = "no" then "Debt Free" else ...
 
-## ⚠️ Disclaimer
-This project uses the [Kaggle Banking Dataset] to simulate a strategic analysis. It does not contain real proprietary data from TD Bank.
