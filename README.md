@@ -1,7 +1,5 @@
 # TD-Bank-Campaign-Analysis
-Optimizing Term Deposit marketing campaigns using Power BI. A case study in increasing conversion rates through targeted segmentation and operational efficiency.
 
-## 📊 Project Overview
 This Power BI dashboard analyzes marketing campaign data to identify high-potential customer segments and optimize operational efficiency. The goal was to increase Term Deposit subscriptions while reducing telemarketing costs.
 
 <img width="812" height="529" alt="image" src="https://github.com/user-attachments/assets/ea768e49-19dc-49b3-a4c4-782e68a32ed8" />
