@@ -6,7 +6,8 @@ This Power BI dashboard analyzes marketing campaign data to identify high-potent
 
 <img width="812" height="529" alt="image" src="https://github.com/user-attachments/assets/ea768e49-19dc-49b3-a4c4-782e68a32ed8" />
 
-<img width="811" height="527" alt="image" src="https://github.com/user-attachments/assets/cd97fa93-808d-4568-be34-a33d921fac66" />
+<img width="810" height="531" alt="image" src="https://github.com/user-attachments/assets/f89778d2-dcdd-4c2a-a55e-12b43b0a0f54" />
+
 
 
 ## 🔍 Key Insights
